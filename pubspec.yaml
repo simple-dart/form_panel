@@ -1,6 +1,6 @@
 name: simple_dart_form_panel
 description: Form Panel Component
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/simple-dart/form_panel
 platforms:
   web:

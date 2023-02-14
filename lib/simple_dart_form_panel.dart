@@ -14,6 +14,7 @@ class FormPanel extends PanelComponent {
       ..width = _labelsWidth;
     final row = Panel()
       ..spacing = _formSpacing
+      ..vAlign = Align.center
       ..add(label)
       ..add(component);
     rows.add(row);
